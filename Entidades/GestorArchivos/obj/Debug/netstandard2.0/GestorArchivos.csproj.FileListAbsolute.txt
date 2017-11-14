@@ -1,0 +1,14 @@
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\GestorArchivos.deps.json
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\GestorArchivos.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\GestorArchivos.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\Entidades.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\Exceptions.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\Entidades.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\Exceptions.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.AssemblyInfoInputs.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.AssemblyInfo.cs
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\obj\Debug\netstandard2.0\GestorArchivos.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\GestorArchivos\bin\Debug\netstandard2.0\Entidades.dll.config

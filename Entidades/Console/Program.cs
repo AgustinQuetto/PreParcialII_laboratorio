@@ -21,9 +21,11 @@ namespace Programita
             miCartuchera.Agregar(goma2);
             miCartuchera.Agregar(lapicera1);
             miCartuchera.Agregar(lapicera2);
-            
-            Console.WriteLine(miCartuchera.ToString());
-            Console.ReadLine();
+
+            miCartuchera.Guardar();
+
+            /*Console.WriteLine(miCartuchera.ToString());
+            Console.ReadLine();*/
         }
     }
 }

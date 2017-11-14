@@ -17,7 +17,7 @@ namespace Entidades
         {
 
         }
-        public Utiles ObtenerPersonaBD()
+        /*public Utiles ObtenerPersonaBD()
         {
             List<Utiles> lista = new List<Utiles>();
             sqlcomm = new SqlCommand();
@@ -37,7 +37,7 @@ namespace Entidades
             }
             sqlcon.Close();
             return lista;
-        }
+        }/
         /*public Persona ObtenerPersonaPorIDBD(int id)
         {
             sqlcomm = new SqlCommand();

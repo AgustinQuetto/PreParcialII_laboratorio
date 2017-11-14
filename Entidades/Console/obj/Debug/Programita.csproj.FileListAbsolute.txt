@@ -8,3 +8,15 @@ D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Console\obj\Debug\Consol
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Console\bin\Debug\Exceptions.dll
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Console\bin\Debug\Exceptions.pdb
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Console\obj\Debug\Programita.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\obj\Debug\Programita.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\obj\Debug\Programita.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Console.exe.config
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Console.exe
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Console.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Entidades.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Exceptions.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Entidades.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Entidades.dll.config
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\bin\Debug\Exceptions.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\obj\Debug\Console.exe
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Console\obj\Debug\Console.pdb

@@ -49,6 +49,11 @@ namespace Entidades
             }
         }
 
+        public Lapicera() : base("Sin marca")
+        {
+
+        }
+
         public Lapicera(string text) : base(text) { }
 
         public double Trazo

@@ -21,6 +21,11 @@ namespace Entidades
 
         public Goma(string text) : base(text) { }
 
+        public Goma() : base("Sin marca")
+        {
+
+        }
+
         public override string ToString()
         {
             string datos = "Solo lapiz: ";

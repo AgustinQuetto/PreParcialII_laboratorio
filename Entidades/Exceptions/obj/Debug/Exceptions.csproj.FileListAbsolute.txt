@@ -2,3 +2,8 @@ D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\bin\Debug\Exc
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\bin\Debug\Exceptions.pdb
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\obj\Debug\Exceptions.dll
 D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\obj\Debug\Exceptions.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Exceptions\bin\Debug\Exceptions.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Exceptions\obj\Debug\Exceptions.dll
+C:\Users\Agustin Quetto\Documents\GitHub\PreParcialII_laboratorio\Entidades\Exceptions\obj\Debug\Exceptions.pdb
