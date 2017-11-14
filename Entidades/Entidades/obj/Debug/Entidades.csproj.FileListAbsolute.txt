@@ -1,0 +1,7 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\bin\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\bin\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\obj\Debug\Entidades.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\obj\Debug\Entidades.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\bin\Debug\Exceptions.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Entidades\bin\Debug\Exceptions.pdb

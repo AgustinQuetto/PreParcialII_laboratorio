@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E06DDF4B-B826-4479-8492-8AA3BF4AC100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Programita", "Console\Programita.csproj", "{00B03B93-76E6-45F1-8EEE-91E6E4279899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exceptions", "Exceptions\Exceptions.csproj", "{6B88B254-2DDC-4D63-AC5E-4EE8CE232B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E06DDF4B-B826-4479-8492-8AA3BF4AC100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06DDF4B-B826-4479-8492-8AA3BF4AC100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06DDF4B-B826-4479-8492-8AA3BF4AC100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06DDF4B-B826-4479-8492-8AA3BF4AC100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B03B93-76E6-45F1-8EEE-91E6E4279899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B03B93-76E6-45F1-8EEE-91E6E4279899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B03B93-76E6-45F1-8EEE-91E6E4279899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B03B93-76E6-45F1-8EEE-91E6E4279899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B88B254-2DDC-4D63-AC5E-4EE8CE232B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B88B254-2DDC-4D63-AC5E-4EE8CE232B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B88B254-2DDC-4D63-AC5E-4EE8CE232B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B88B254-2DDC-4D63-AC5E-4EE8CE232B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

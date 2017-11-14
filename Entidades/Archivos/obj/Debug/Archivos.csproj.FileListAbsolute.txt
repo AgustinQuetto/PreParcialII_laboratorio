@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Archivos\bin\Debug\Archivos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Archivos\bin\Debug\Archivos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Archivos\obj\Debug\Archivos.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Archivos\obj\Debug\Archivos.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache

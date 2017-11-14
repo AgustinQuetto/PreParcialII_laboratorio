@@ -1,0 +1,4 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\bin\Debug\Exceptions.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\bin\Debug\Exceptions.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\obj\Debug\Exceptions.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Entidades\Exceptions\obj\Debug\Exceptions.pdb
