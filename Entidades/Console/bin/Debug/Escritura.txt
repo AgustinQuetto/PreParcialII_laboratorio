@@ -42,3 +42,91 @@
 14/11/2017 08:52:57 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
 14/11/2017 08:52:57 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
 14/11/2017 08:52:57 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:12:01 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:12:01 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:12:01 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:12:01 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:12:11 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:12:11 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:12:11 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:12:11 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:16:16 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:16:16 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:16:16 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:16:16 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:19:45 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:19:45 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:19:45 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:19:45 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:19:57 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:19:57 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:19:57 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:19:57 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:25:07 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:25:07 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:25:07 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:25:07 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:25:18 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:25:18 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:25:18 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:25:18 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:26:13 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:26:13 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:26:13 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:26:13 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:26:26 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:26:26 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:26:26 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:26:26 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:36:36 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:36:36 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:36:36 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:36:36 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+14/11/2017 09:36:39 p. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+14/11/2017 09:36:39 p. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+14/11/2017 09:36:39 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+14/11/2017 09:36:39 p. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:45:55 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:45:55 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:45:55 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:45:55 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:47:11 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:47:11 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:47:11 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:47:11 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:47:21 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:47:21 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:47:21 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:47:21 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:49:06 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:49:06 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:49:06 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:49:06 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:49:20 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:49:20 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:49:20 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:49:20 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:53:10 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:53:10 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:53:10 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:53:10 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:55:11 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:55:11 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:55:11 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:55:11 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:56:39 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:56:39 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:56:39 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:56:39 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:58:07 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:58:07 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:58:07 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:58:07 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 12:59:56 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 12:59:56 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 12:59:56 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 12:59:56 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0
+15/11/2017 01:03:41 a. m. | Solo lapiz: No | Marca: Goma 1 | Precio: 0
+15/11/2017 01:03:41 a. m. | Solo lapiz: No | Marca: Goma 2 | Precio: 0
+15/11/2017 01:03:41 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 1 | Precio: 0
+15/11/2017 01:03:41 a. m. | Color: Black | Trazo 0 | Marca: Lapicera 2 | Precio: 0

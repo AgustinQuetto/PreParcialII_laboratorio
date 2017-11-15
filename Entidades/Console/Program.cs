@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Entidades;
+using System.Threading;
 
 namespace Programita
 {
@@ -23,9 +24,9 @@ namespace Programita
             miCartuchera.Agregar(lapicera2);
 
             miCartuchera.Guardar();
+            miCartuchera.Leer();
 
-            /*Console.WriteLine(miCartuchera.ToString());
-            Console.ReadLine();*/
+            Thread.Sleep(10000);
         }
     }
 }

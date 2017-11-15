@@ -12,13 +12,14 @@ namespace Entidades
     //public delegate void EventHandler(object a);
     public class Cartuchera<T>
     {
-        protected string marca;
-        protected int capacidad;
-        protected List<T> lista;
+        public string marca;
+        public int capacidad;
+        public List<T> lista;
         public T ultimoAgregado;
         public event EventHandler eventEscribir;
 
-        public Cartuchera(string marca, int capacidad) {
+        public Cartuchera(string marca, int capacidad)
+        {
             this.marca = marca;
             this.capacidad = capacidad;
             this.lista = new List<T>();
@@ -40,11 +41,11 @@ namespace Entidades
                 if (this.lista.Count < this.capacidad)
                     lista.Add(item);
                 ultimoAgregado = item;
-                eventEscribir(this,EventArgs.Empty);
+                eventEscribir(this, EventArgs.Empty);
             }
             catch (ListaExcedida l)
             {
-                
+
                 throw l;
             }
         }
@@ -61,16 +62,42 @@ namespace Entidades
             return sb.ToString();
         }
 
+        /*
+        public void ListarBD()
+        {
+            try
+            {
+                sqlconexion.Open();
+                sqlcomander = new SqlCommand();
+                sqlcomander.Connection = sqlconexion;
+                sqlcomander.CommandType = System.Data.CommandType.Text;
+                sqlcomander.CommandText = "SELECT TOP 1000 [id],[marca],[precio],[color],[trazo],[soloLapiz],[tipo] FROM elementos";
+                SqlDataReader reader = sqlcomander.ExecuteReader();
+                while (reader.Read())
+                {
+                    for (int i = 0; i < 7; i++)
+                    {
+                        Console.Write(reader[i].ToString() + " ");
+                    }
+                    Console.Write("\n");
+                }
+                reader.Close();
+                sqlconexion.Close();
+            }
+            catch (Exception e)
+            {
+            }
+        }
+        */
+
         public bool Guardar()
         {
             try
             {
                 using (StreamWriter sw = new StreamWriter((Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\cartuchera.xml"), false))
                 {
-                    XmlSerializer xmls = new XmlSerializer(this.GetType(), new Type[] { typeof(Lapicera), typeof(Goma) });
+                    XmlSerializer xmls = new XmlSerializer(typeof(Cartuchera<T>));
                     xmls.Serialize(sw, this);
-
-                    /*XmlSerializer serializer = new XmlSerializer(typeof(List<Utiles>), new Type[] { typeof(Lapicera), typeof(Goma) });*/
                 }
                 return true;
             }
@@ -81,22 +108,32 @@ namespace Entidades
             }
         }
 
-        /*public string Leer()
+        public bool Leer()
         {
-            using (StreamReader sr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\cartuchera.xml"))
+            try
             {
-                XmlSerializer xmls = new XmlSerializer(typeof(List<Persona>));
-                List<Persona> misPersonas = new List<Persona>();
-
-                misPersonas = (List<Persona>)xmls.Deserialize(sr);
-
-                foreach (Persona p in misPersonas)
+                using (StreamReader sr = new StreamReader(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + @"\cartuchera.xml"))
                 {
-                    Console.WriteLine(p.ToString());
+                    XmlSerializer xmls = new XmlSerializer(typeof(Cartuchera<T>));
+                    //List<T> lista = new List<T>();
+
+                    //lista = (List<T>)xmls.Deserialize(sr);
+
+                    xmls.ToString();
+
+                    /*foreach (T p in lista)
+                    {
+                        Console.WriteLine(p.ToString());
+                    }*/
+                    return true;
                 }
-
             }
-        }*/
+            catch (ArchivosException)
+            {
 
+                throw;
+            }
+
+        }
     }
 }

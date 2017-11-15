@@ -3,50 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
+using System.IO;
 
 namespace Entidades
 {
-
-    /*
-    utiles (abstract)
-        *-precio
-        *-marca
-
-        *-Precio (get;set) - abstract
-        *-Marca (get; set) - abstract
-
-        utilesToString (virtual)
-
-        *-*-*--*-*-*-*-*-*-*--*-*-*-*---*-*-*-
-        lapicera : utiles
-        *-color
-        *-trazo
-
-        ToString
-
-        *-*-*--*-*-*-*-*-*-*--*-*-*-*---*-*-*-
-        Goma : utiles
-
-        *-soloLapiz
-
-        ToString
-
-        *-*-*--*-*-*-*-*-*-*--*-*-*-*---*-*-*-
-        Cartuchera<T>
-
-        *-marca
-        *-capacidad
-
-        *-list<T>
-
-        *-Agregar(T):void
-
-        ToString
-    */
+    [XmlInclude(typeof(Lapicera))]
+    [XmlInclude(typeof(Goma))]
+    [Serializable]
     public abstract class Utiles
     {
-        protected double precio;
-        protected string marca;
+        public double precio;
+        public string marca;
 
         protected double Precio
         {
